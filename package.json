@@ -8,9 +8,9 @@
     "react-dom": "^18.3.1",
     "typescript": "^5.4.5"
   },
-  "name": "Minu-with-lumentis",
-  "description": "Minu is talking, to her friend Benjiee, regarding her successful submission of ISO 13485 software as medical certification in her previous company Nervotec. ",
-  "version": "0.0.1",
+  "name": "How Early-Stage Startups can Tackle the Monstrous Goliath that is ISO 13485",
+  "description": "ISO is difficult to get. It's a monstrous and tedious task that requires so many documents. Here's a tip on how to get ISO ",
+  "version": "0.0.2",
   "scripts": {
     "devstart": "next dev -p 5656 & node start.js",
     "dev": "next dev -p 5656",
