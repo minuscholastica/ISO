@@ -1,5 +1,5 @@
 export default {
-      logo: <span>Minu - made with Lumentis</span>,
+      logo: <span> ISO Talks with Minu - made with Lumentis</span>,
       editLink: {
         component: null,
       },
@@ -21,8 +21,8 @@ export default {
       },
       head: (
         <>
-          <meta property="og:title" content="Minu" />
-          <meta property="og:description" content="Minu is talking, to her friend Benjiee, regarding her successful submission of ISO 13485 software as medical certification in her previous company Nervotec. " />
+          <meta property="og:title" content="How did an Early Stage Startup Slay Goliath the ISO" />
+          <meta property="og:description" content="ISO is difficult to get. It's a monstrous and tedious task that requires so many documents. Here's a set of tips on how to get ISO" />
           <meta name="robots" content="noindex, nofollow" />
           <link rel="icon" type="image/x-icon" href="https://github.com/minuscholastica/minunamu/blob/main/Minune.png" />
         </>
