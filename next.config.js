@@ -4,6 +4,6 @@ module.exports = {
         themeConfig: "./theme.config.jsx",
         latex: true,
         titleSuffix:
-        "Minu",
+        "ISO Talks",
       })()
     };
